@@ -1,5 +1,5 @@
 # Vue 3 + Vite + GSAP
-This template should help get you started developing with Vue 3 in Vite and GSAP SmoothScroll.
+This template should help get you started developing with Vue 3 in Vite and using GSAP SmoothScroll.
 =======
 Also it just exemple, dont use in your product!
 ## Setup
